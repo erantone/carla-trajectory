@@ -1,8 +1,12 @@
 .venv
+.venv_gpu
 video
 gail_experts
+Gifs_Dataset
+figures
 ckpt
 outputs
 wandb
 *.pyc
+*.npz
 screenlog.0
